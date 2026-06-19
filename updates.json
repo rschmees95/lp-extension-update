@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "lp-concession-assistant@amazon.com": {
+      "updates": [
+        {
+          "version": "3.0.0",
+          "update_link": "https://rschmees95.github.io/lp-extension-update/lp-concession-assistant@amazon.com-3.0.0.xpi"
+        }
+      ]
+    }
+  }
+}
